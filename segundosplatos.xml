@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+<item>
+<title>Carnes</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/rulko51/cocina/master/carnes.xml</externallink>
+</item>
+ 
+<item>
+<title>Pescados y Mariscos</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/rulko51/cocina/master/pescadosymariscos.xml</externallink>
+</item>
+ 
+<item>
+<title>Varios</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/rulko51/cocina/master/varios.xml</externallink>
+</item>
+ 

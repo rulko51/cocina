@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+<item>
+<title>Entrantes</title>
+<thumbnail>https://i.imgur.com/4PiyAcf.png</thumbnail>
+<fanart>https://i.imgur.com/gi6BXb8.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/rulko51/cocina/master/entrantes.xml</externallink>
+</item>
+ 
+<item>
+<title>Primeros platos</title>
+<thumbnail>https://i.imgur.com/0iRplz4.png</thumbnail>
+<fanart>https://i.imgur.com/mc9i7mk.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/rulko51/cocina/master/primerosplatos.xml</externallink>
+</item>
+ 
+<item>
+<title>Segundos platos</title>
+<thumbnail>https://i.imgur.com/nNrxs1Y.png</thumbnail>
+<fanart>https://i.imgur.com/EbGMZZd.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/rulko51/cocina/master/segundosplatos.xml</externallink>
+</item>
+
+<item>
+<title>Postres</title>
+<thumbnail>https://i.imgur.com/xcZmrmp.png</thumbnail>
+<fanart>https://i.imgur.com/e3D5Vyq.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/rulko51/cocina/master/postres.xml</externallink>
+</item>
+
+
+ 

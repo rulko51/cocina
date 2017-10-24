@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+<item>
+<title>Entrantes frios</title>
+<thumbnail>https://i.imgur.com/QG5eXbs.png</thumbnail>
+<fanart>https://i.imgur.com/9xVsrT2.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/rulko51/cocina/master/entrantesfrios.xml</externallink>
+</item>
+ 
+<item>
+<title>Entrantes calientes</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/rulko51/cocina/master/entrantescalientes.xml</externallink>
+</item>
+ 
+<item>
+<title>Ensaladas</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/rulko51/cocina/master/ensaladas.xml</externallink>
+</item>
+ 

@@ -2,40 +2,40 @@
  
 <item>
 <title>Arroces</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/1WmGclo.png</thumbnail>
+<fanart>https://i.imgur.com/O6TsenG.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rulko51/cocina/master/arroces.xml</externallink>
 </item>
  
 <item>
 <title>Cocidos</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/UbQGUpJ.png</thumbnail>
+<fanart>https://i.imgur.com/wGEsfB1.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rulko51/cocina/master/cocidos.xml</externallink>
 </item>
  
 <item>
 <title>Pastas</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/gOirJYt.png</thumbnail>
+<fanart>https://i.imgur.com/3xHPBk0.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rulko51/cocina/master/pastas.xml</externallink>
 </item>
 
 <item>
 <title>Sopas</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/rwJbQoz.png</thumbnail>
+<fanart>https://i.imgur.com/q919a2E.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rulko51/cocina/master/sopas.xml</externallink>
 </item>
 
 <item>
 <title>Verduras</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/tIumBuB.png</thumbnail>
+<fanart>https://i.imgur.com/yQlPkKd.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rulko51/cocina/master/verduras.xml</externallink>
 </item>

@@ -10,16 +10,16 @@
  
 <item>
 <title>Entrantes calientes</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/yd1djVJ.png</thumbnail>
+<fanart>https://i.imgur.com/xNTkHem.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rulko51/cocina/master/entrantescalientes.xml</externallink>
 </item>
  
 <item>
 <title>Ensaladas</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/g8MYeB4.png</thumbnail>
+<fanart>https://i.imgur.com/X1vawFv.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rulko51/cocina/master/ensaladas.xml</externallink>
 </item>

@@ -2,32 +2,32 @@
  
 <item>
 <title>Frutas</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/jtZHBvT.png</thumbnail>
+<fanart>https://i.imgur.com/q94cCgk.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rulko51/cocina/master/frutas.xml</externallink>
 </item>
  
 <item>
 <title>Helados</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/friNMoL.png</thumbnail>
+<fanart>https://i.imgur.com/pUfTtKP.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rulko51/cocina/master/helados.xml</externallink>
 </item>
  
 <item>
 <title>Pasteleria</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/ip3svUq.png</thumbnail>
+<fanart>https://i.imgur.com/vcNMm9f.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rulko51/cocina/master/pasteleria.xml</externallink>
 </item>
 
 <item>
 <title>Otros</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/E4e6pcE.png</thumbnail>
+<fanart>https://i.imgur.com/pL2KrRy.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/rulko51/cocina/master/otros.xml</externallink>
 </item>
